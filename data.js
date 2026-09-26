@@ -1,1 +1,2 @@
-const UNIVERSITIES = ['Premier University', 'Chittagong University', 'CUET', 'EDU', 'IIUC'];
+/*CampusBazaar — data.js*/
+const UNIVERSITIES = ['Premier University', 'Chittagong University', 'IIUC', 'EDU', 'CUET'];
